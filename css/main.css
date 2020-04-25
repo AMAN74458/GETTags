@@ -72,3 +72,23 @@ header {
     color: #8E8E85;
 }
 /* Footer-Style-Ends */
+
+/* Media Query */
+@media (min-width: 320px) and (max-width: 480px) {
+    .h1 {
+        margin-left: 0;
+    }
+
+    .heading {
+        font-size: 300%;
+    }
+
+    .navbar-collapse {
+        padding: 4% 0 4% 9%;
+    }
+
+    .banner {
+        font-size: 110%;
+        padding: 0 7% 0 7%;
+    }
+}
