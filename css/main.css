@@ -1,0 +1,74 @@
+/* Designed By AMAN KUMAR */
+
+html,
+body {
+  height: 100%;
+  color: #3C3A3B;
+  background-color:  #F8F7F6;
+}
+
+/* Header-Style */
+header {
+    margin-bottom: 5%;
+}
+
+/* Navbar-Style */
+.main-nav {
+    background-color: #1B1F25;
+    opacity: 0.9;
+}
+
+.h1 {
+    margin-left: 50%;
+    color: #F8F7F6;
+    font-weight: bold;
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
+.main-links {
+    margin-right: 5%;
+}
+
+.active {
+    background-color: #7B7C7C !important;
+}
+
+.menu {
+    color: #F8F7F6;
+}
+
+.menu:hover {
+    color: #8E8E85;
+}
+/* Navbar-Style-Ends */
+
+/* Container-Banner-Style */
+.main-content {
+    padding: 90px 0 140px 0;
+    margin-top: 100px;
+}
+
+.banner {
+    font-size: 110%;
+}
+/* Container-Banner-Style-Ends */
+
+/* Footer-Style */
+.main-footer {
+    color: #A39C9B;
+    background-color: #1B1F25;
+}
+
+.address {
+    font-style: italic;
+    padding-top: 1%;
+}
+
+.foot-menu {
+    color: #A39C9B;
+}
+
+.foot-menu:hover {
+    color: #8E8E85;
+}
+/* Footer-Style-Ends */
