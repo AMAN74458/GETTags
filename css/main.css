@@ -73,6 +73,30 @@ header {
 }
 /* Footer-Style-Ends */
 
+/* Table-style */
+.th-head {
+    background-color: #8E8E85;
+    color: #F8F7F6;
+}
+
+.td-menu {
+    color: #3C3A3B;
+}
+
+.td-menu:hover {
+    color: #8E8E85;
+    text-decoration: none;
+}
+
+.notsupported {
+    color: #fa0c0c;
+}
+
+.main-content h2 {
+    padding-left: 2%;
+}
+/* Table-Style-Ends */
+
 /* Media Query */
 @media (min-width: 320px) and (max-width: 480px) {
     .h1 {
