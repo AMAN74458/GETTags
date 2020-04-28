@@ -24,7 +24,7 @@ header {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
-.site-tile:hover {
+.site-title:hover {
   color: #F8F7F6;
 }
 
