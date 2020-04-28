@@ -18,15 +18,22 @@ header {
     opacity: 0.9;
 }
 
-.h1 {
-    margin-left: 50%;
+.site-title {
+    margin-left: 6%;
     color: #F8F7F6;
-    font-weight: bold;
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
+.site-tile:hover {
+  color: #F8F7F6;
+}
+
+.h1 {
+  font-weightL: bold;
+}
+
 .main-links {
-    margin-right: 5%;
+    margin-right: 5.4%;
 }
 
 .active {
